@@ -40,5 +40,5 @@ let bigOrSmall = {for (let i=0; i < arr.length; i++){
   if (i<=100) {answers.push ("small")} 
   else {answers.push ("big")}
 }
-}
+
 console.log(answers)

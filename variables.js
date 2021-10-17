@@ -19,7 +19,7 @@ let lovesCode = true
   equal to 13. If it is, console.log('lucky 13!'). 
   If it's not, console.log('not lucky 13').
 */
-if (faveNum = 13){
+if (faveNum == 13){
   console.log ('lucky 13!')
 }else{ console.log ('not lucky 13')
 }
@@ -29,6 +29,6 @@ if (faveNum = 13){
   Write a for loop that prints out your faveNum 5 times.
 */
 
-for (let i = 0; i < 5; I++){
+for (let i = 0; i < 5; i++){
   console.log (faveNum)
 }
